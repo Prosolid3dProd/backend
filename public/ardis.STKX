@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PartFile ID="ardis" Version="6.3.29" format="1.1.1">
+	<PartList>
+	<Part Key="1">
+			<PartMat>Bennu BE11</PartMat>
+			<PartD>1</PartD>
+      <PartRemark>Costado IZQ</PartRemark>
+      <PartRemark2>Bajo</PartRemark2>
+			<PartL>800</PartL>
+			<PartW>330</PartW>
+			<PartQty>1</PartQty><PartEdge1>0</PartEdge1>
+  <PartEdge2>0</PartEdge2>
+  <PartEdge3>0</PartEdge3>
+  <PartEdge4>0</PartEdge4>
+      <PartDraw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>790.300</X><Y>50.000</Y><RADIUS>4</RADIUS><Z2>9</Z2><QUADRANT>1<PartDrawID>1</PartDrawID> </QUADRANT><PartDrawSide>5</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>790.300</X><Y>280.000</Y><RADIUS>4</RADIUS><Z2>9</Z2><QUADRANT>1<PartDrawID>2</PartDrawID> </QUADRANT><PartDrawSide>5</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>9.700</X><Y>50.000</Y><RADIUS>4</RADIUS><Z2>9</Z2><QUADRANT>1<PartDrawID>3</PartDrawID> </QUADRANT><PartDrawSide>5</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>9.700</X><Y>280.000</Y><RADIUS>4</RADIUS><Z2>9</Z2><QUADRANT>1<PartDrawID>4</PartDrawID> </QUADRANT><PartDrawSide>5</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>400.000</X><Y>50.000</Y><RADIUS>4</RADIUS><Z2>9</Z2><QUADRANT>1<PartDrawID>5</PartDrawID> </QUADRANT><PartDrawSide>5</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>400.000</X><Y>240.000</Y><RADIUS>4</RADIUS><Z2>9</Z2><QUADRANT>1<PartDrawID>6</PartDrawID> </QUADRANT><PartDrawSide>5</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>LINE</FUNCTNAME><X>13.500</X><Y>299.700</Y><LW>1</LW><LENGTH>786.5</LENGTH><WIDTH>299.7</WIDTH><PartDrawTool>"MILL"</PartDrawTool><PartDrawOpSide>2</PartDrawOpSide><THICK>20.4</THICK><Z2>7</Z2><SIDE>5</SIDE><PartDrawID>7</PartDrawID><PartDrawSeq>1</PartDrawSeq><PartDrawQuadrant>2</PartDrawQuadrant>
+  </Draw></PartDraw>
+			<LPX>800</LPX>
+			<LPY>330</LPY>
+			<LPZ>19.4</LPZ>
+		</Part><Part Key="2">
+			<PartMat>Bennu BE11</PartMat>
+			<PartD>1</PartD>
+      <PartRemark>Costado DR</PartRemark>
+      <PartRemark2>Bajo</PartRemark2>
+			<PartL>800</PartL>
+			<PartW>330</PartW>
+			<PartQty>1</PartQty><PartEdge1>0</PartEdge1>
+  <PartEdge2>0</PartEdge2>
+  <PartEdge3>0</PartEdge3>
+  <PartEdge4>0</PartEdge4>
+      <PartDraw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>790.300</X><Y>50.000</Y><RADIUS>4</RADIUS><Z2>9</Z2><QUADRANT>1<PartDrawID>1</PartDrawID> </QUADRANT><PartDrawSide>0</PartDrawSide>
+  <PartDrawQuadrant>1</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>790.300</X><Y>280.000</Y><RADIUS>4</RADIUS><Z2>9</Z2><QUADRANT>1<PartDrawID>2</PartDrawID> </QUADRANT><PartDrawSide>0</PartDrawSide>
+  <PartDrawQuadrant>1</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>9.700</X><Y>50.000</Y><RADIUS>4</RADIUS><Z2>9</Z2><QUADRANT>1<PartDrawID>3</PartDrawID> </QUADRANT><PartDrawSide>0</PartDrawSide>
+  <PartDrawQuadrant>1</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>9.700</X><Y>280.000</Y><RADIUS>4</RADIUS><Z2>9</Z2><QUADRANT>1<PartDrawID>4</PartDrawID> </QUADRANT><PartDrawSide>0</PartDrawSide>
+  <PartDrawQuadrant>1</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>400.000</X><Y>50.000</Y><RADIUS>4</RADIUS><Z2>9</Z2><QUADRANT>1<PartDrawID>5</PartDrawID> </QUADRANT><PartDrawSide>0</PartDrawSide>
+  <PartDrawQuadrant>1</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>400.000</X><Y>240.000</Y><RADIUS>4</RADIUS><Z2>9</Z2><QUADRANT>1<PartDrawID>6</PartDrawID> </QUADRANT><PartDrawSide>0</PartDrawSide>
+  <PartDrawQuadrant>1</PartDrawQuadrant></Draw><Draw><FUNCTNAME>LINE</FUNCTNAME><X>13.500</X><Y>299.700</Y><LW>1</LW><LENGTH>786.5</LENGTH><WIDTH>299.7</WIDTH><PartDrawTool>"MILL"</PartDrawTool><PartDrawOpSide>2</PartDrawOpSide><THICK>20.4</THICK><Z2>7</Z2><PartDrawID>7</PartDrawID><PartDrawSeq>1</PartDrawSeq><PartDrawQuadrant>1</PartDrawQuadrant>
+  </Draw></PartDraw>
+			<LPX>800</LPX>
+			<LPY>330</LPY>
+			<LPZ>19.4</LPZ>
+		</Part><Part Key="3">
+			<PartMat>Bennu BE11</PartMat>
+			<PartD>1</PartD>
+      <PartRemark>Techo</PartRemark>
+      <PartRemark2>Bajo</PartRemark2>
+			<PartL>561.2</PartL>
+			<PartW>330</PartW>
+			<PartQty>1</PartQty><PartEdge1>0</PartEdge1>
+  <PartEdge2>0</PartEdge2>
+  <PartEdge3>0</PartEdge3>
+  <PartEdge4>0</PartEdge4>
+      <PartDraw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>50.000</X><Y>9.700</Y><RADIUS>4</RADIUS><Z2>21</Z2><QUADRANT>3<PartDrawID>1</PartDrawID> </QUADRANT><PartDrawSide>4</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>280.000</X><Y>9.700</Y><RADIUS>4</RADIUS><Z2>21</Z2><QUADRANT>3<PartDrawID>2</PartDrawID> </QUADRANT><PartDrawSide>4</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>50.000</X><Y>9.700</Y><RADIUS>4</RADIUS><Z2>21</Z2><QUADRANT>4<PartDrawID>3</PartDrawID> </QUADRANT><PartDrawSide>2</PartDrawSide>
+  <PartDrawQuadrant>1</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>280.000</X><Y>9.700</Y><RADIUS>4</RADIUS><Z2>21</Z2><QUADRANT>4<PartDrawID>4</PartDrawID> </QUADRANT><PartDrawSide>2</PartDrawSide>
+  <PartDrawQuadrant>1</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>280.600</X><Y>50.000</Y><RADIUS>4</RADIUS><Z2>9</Z2><QUADRANT>1<PartDrawID>5</PartDrawID> </QUADRANT><PartDrawSide>5</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>280.600</X><Y>240.000</Y><RADIUS>4</RADIUS><Z2>9</Z2><QUADRANT>1<PartDrawID>6</PartDrawID> </QUADRANT><PartDrawSide>5</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>LINE</FUNCTNAME><X>0.100</X><Y>299.700</Y><LW>1</LW><LENGTH>561.1</LENGTH><WIDTH>299.7</WIDTH><PartDrawTool>"MILL"</PartDrawTool><PartDrawOpSide>2</PartDrawOpSide><THICK>20.4</THICK><Z2>7</Z2><SIDE>5</SIDE><PartDrawID>7</PartDrawID><PartDrawSeq>1</PartDrawSeq><PartDrawQuadrant>2</PartDrawQuadrant>
+  </Draw></PartDraw>
+			<LPX>561.2</LPX>
+			<LPY>330</LPY>
+			<LPZ>19.4</LPZ>
+		</Part><Part Key="4">
+			<PartMat>Bennu BE11</PartMat>
+			<PartD>1</PartD>
+      <PartRemark>Base</PartRemark>
+      <PartRemark2>Bajo</PartRemark2>
+			<PartL>561.2</PartL>
+			<PartW>330</PartW>
+			<PartQty>1</PartQty><PartEdge1>0</PartEdge1>
+  <PartEdge2>0</PartEdge2>
+  <PartEdge3>0</PartEdge3>
+  <PartEdge4>0</PartEdge4>
+      <PartDraw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>50.000</X><Y>9.700</Y><RADIUS>4</RADIUS><Z2>21</Z2><QUADRANT>4<PartDrawID>1</PartDrawID> </QUADRANT><PartDrawSide>2</PartDrawSide>
+  <PartDrawQuadrant>1</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>280.000</X><Y>9.700</Y><RADIUS>4</RADIUS><Z2>21</Z2><QUADRANT>4<PartDrawID>2</PartDrawID> </QUADRANT><PartDrawSide>2</PartDrawSide>
+  <PartDrawQuadrant>1</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>50.000</X><Y>9.700</Y><RADIUS>4</RADIUS><Z2>21</Z2><QUADRANT>3<PartDrawID>3</PartDrawID> </QUADRANT><PartDrawSide>4</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>280.000</X><Y>9.700</Y><RADIUS>4</RADIUS><Z2>21</Z2><QUADRANT>3<PartDrawID>4</PartDrawID> </QUADRANT><PartDrawSide>4</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>49.000</X><Y>72.000</Y><RADIUS>6.5</RADIUS><Z2>12</Z2><QUADRANT>1<PartDrawID>5</PartDrawID> </QUADRANT><PartDrawSide>5</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>544.200</X><Y>258.000</Y><RADIUS>6.5</RADIUS><Z2>12</Z2><QUADRANT>1<PartDrawID>6</PartDrawID> </QUADRANT><PartDrawSide>5</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>49.000</X><Y>258.000</Y><RADIUS>6.5</RADIUS><Z2>12</Z2><QUADRANT>1<PartDrawID>7</PartDrawID> </QUADRANT><PartDrawSide>5</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>512.200</X><Y>258.000</Y><RADIUS>6.5</RADIUS><Z2>12</Z2><QUADRANT>1<PartDrawID>8</PartDrawID> </QUADRANT><PartDrawSide>5</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>17.000</X><Y>258.000</Y><RADIUS>6.5</RADIUS><Z2>12</Z2><QUADRANT>1<PartDrawID>9</PartDrawID> </QUADRANT><PartDrawSide>5</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>512.200</X><Y>72.000</Y><RADIUS>6.5</RADIUS><Z2>12</Z2><QUADRANT>1<PartDrawID>10</PartDrawID> </QUADRANT><PartDrawSide>5</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>544.200</X><Y>72.000</Y><RADIUS>6.5</RADIUS><Z2>12</Z2><QUADRANT>1<PartDrawID>11</PartDrawID> </QUADRANT><PartDrawSide>5</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>17.000</X><Y>72.000</Y><RADIUS>6.5</RADIUS><Z2>12</Z2><QUADRANT>1<PartDrawID>12</PartDrawID> </QUADRANT><PartDrawSide>5</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>LINE</FUNCTNAME><X>0.100</X><Y>299.700</Y><LW>1</LW><LENGTH>561.1</LENGTH><WIDTH>299.7</WIDTH><PartDrawTool>"MILL"</PartDrawTool><PartDrawOpSide>2</PartDrawOpSide><THICK>20.4</THICK><Z2>7</Z2><PartDrawID>13</PartDrawID><PartDrawSeq>1</PartDrawSeq><PartDrawQuadrant>1</PartDrawQuadrant>
+  </Draw></PartDraw>
+			<LPX>561.2</LPX>
+			<LPY>330</LPY>
+			<LPZ>19.4</LPZ>
+		</Part><Part Key="5">
+			<PartMat>Bennu BE11</PartMat>
+			<PartD>1</PartD>
+      <PartRemark>Trasera</PartRemark>
+      <PartRemark2>Bajo</PartRemark2>
+			<PartL>573.2</PartL>
+			<PartW>773.2</PartW>
+			<PartQty>1</PartQty><PartEdge1>0</PartEdge1>
+  <PartEdge2>0</PartEdge2>
+  <PartEdge3>0</PartEdge3>
+  <PartEdge4>0</PartEdge4>
+      <PartDraw><Draw><FUNCTNAME>ARC</FUNCTNAME><X>14</X><Y>700.2000122070312</Y><LW>1</LW><PartDrawSeq>1</PartDrawSeq><PartDrawID>1</PartDrawID><PartDrawExt01>MARICO</PartDrawExt01><PartDrawTool>0</PartDrawTool><PartDrawOpSide>0</PartDrawOpSide><RADIUS>-9.000</RADIUS><LENGTH>23</LENGTH><WIDTH>709.2000122070312</WIDTH><DIR>2</DIR><PartDrawZ2>undefined</PartDrawZ2></Draw><Draw><FUNCTNAME>ARC</FUNCTNAME><X>23</X><Y>709.2000122070312</Y><LW>1</LW><PartDrawSeq>2</PartDrawSeq><PartDrawID>1</PartDrawID><PartDrawExt01>MARICO</PartDrawExt01><PartDrawTool>0</PartDrawTool><PartDrawOpSide>0</PartDrawOpSide><RADIUS>-9.000</RADIUS><LENGTH>32</LENGTH><WIDTH>700.2000122070312</WIDTH><DIR>2</DIR><PartDrawZ2>undefined</PartDrawZ2></Draw><Draw><FUNCTNAME>ARC</FUNCTNAME><X>32</X><Y>700.2000122070312</Y><LW>1</LW><PartDrawSeq>3</PartDrawSeq><PartDrawID>1</PartDrawID><PartDrawExt01>MARICO</PartDrawExt01><PartDrawTool>0</PartDrawTool><PartDrawOpSide>0</PartDrawOpSide><RADIUS>-9.000</RADIUS><LENGTH>23</LENGTH><WIDTH>691.2000122070312</WIDTH><DIR>2</DIR><PartDrawZ2>undefined</PartDrawZ2></Draw><Draw><FUNCTNAME>ARC</FUNCTNAME><X>23</X><Y>691.2000122070312</Y><LW>1</LW><PartDrawSeq>4</PartDrawSeq><PartDrawID>1</PartDrawID><PartDrawExt01>MARICO</PartDrawExt01><PartDrawTool>0</PartDrawTool><PartDrawOpSide>0</PartDrawOpSide><RADIUS>-9.000</RADIUS><LENGTH>14</LENGTH><WIDTH>700.2000122070312</WIDTH><DIR>2</DIR><PartDrawZ2>undefined</PartDrawZ2></Draw><Draw><FUNCTNAME>ARC</FUNCTNAME><X>541.2000122070312</X><Y>700.2000122070312</Y><LW>1</LW><PartDrawSeq>1</PartDrawSeq><PartDrawID>2</PartDrawID><PartDrawExt01>MARICO</PartDrawExt01><PartDrawTool>0</PartDrawTool><PartDrawOpSide>0</PartDrawOpSide><RADIUS>-9.000</RADIUS><LENGTH>550.2000122070312</LENGTH><WIDTH>709.2000122070312</WIDTH><DIR>2</DIR><PartDrawZ2>undefined</PartDrawZ2></Draw><Draw><FUNCTNAME>ARC</FUNCTNAME><X>550.2000122070312</X><Y>709.2000122070312</Y><LW>1</LW><PartDrawSeq>2</PartDrawSeq><PartDrawID>2</PartDrawID><PartDrawExt01>MARICO</PartDrawExt01><PartDrawTool>0</PartDrawTool><PartDrawOpSide>0</PartDrawOpSide><RADIUS>-9.000</RADIUS><LENGTH>559.2000122070312</LENGTH><WIDTH>700.2000122070312</WIDTH><DIR>2</DIR><PartDrawZ2>undefined</PartDrawZ2></Draw><Draw><FUNCTNAME>ARC</FUNCTNAME><X>559.2000122070312</X><Y>700.2000122070312</Y><LW>1</LW><PartDrawSeq>3</PartDrawSeq><PartDrawID>2</PartDrawID><PartDrawExt01>MARICO</PartDrawExt01><PartDrawTool>0</PartDrawTool><PartDrawOpSide>0</PartDrawOpSide><RADIUS>-9.000</RADIUS><LENGTH>550.2000122070312</LENGTH><WIDTH>691.2000122070312</WIDTH><DIR>2</DIR><PartDrawZ2>undefined</PartDrawZ2></Draw><Draw><FUNCTNAME>ARC</FUNCTNAME><X>550.2000122070312</X><Y>691.2000122070312</Y><LW>1</LW><PartDrawSeq>4</PartDrawSeq><PartDrawID>2</PartDrawID><PartDrawExt01>MARICO</PartDrawExt01><PartDrawTool>0</PartDrawTool><PartDrawOpSide>0</PartDrawOpSide><RADIUS>-9.000</RADIUS><LENGTH>541.2000122070312</LENGTH><WIDTH>700.2000122070312</WIDTH><DIR>2</DIR><PartDrawZ2>undefined</PartDrawZ2></Draw></PartDraw>
+			<LPX>573.2</LPX>
+			<LPY>773.2</LPY>
+			<LPZ>19.4</LPZ>
+		</Part><Part Key="6">
+			<PartMat>Bennu BE11</PartMat>
+			<PartD>1</PartD>
+      <PartRemark>Panel Balda</PartRemark>
+      <PartRemark2>Bajo</PartRemark2>
+			<PartL>561.2</PartL>
+			<PartW>290</PartW>
+			<PartQty>1</PartQty><PartEdge1>0</PartEdge1>
+  <PartEdge2>0</PartEdge2>
+  <PartEdge3>0</PartEdge3>
+  <PartEdge4>0</PartEdge4>
+      <PartDraw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>50.000</X><Y>9.500</Y><RADIUS>4</RADIUS><Z2>21</Z2><QUADRANT>4<PartDrawID>1</PartDrawID> </QUADRANT><PartDrawSide>2</PartDrawSide>
+  <PartDrawQuadrant>1</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>240.000</X><Y>9.500</Y><RADIUS>4</RADIUS><Z2>21</Z2><QUADRANT>4<PartDrawID>2</PartDrawID> </QUADRANT><PartDrawSide>2</PartDrawSide>
+  <PartDrawQuadrant>1</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>50.000</X><Y>9.500</Y><RADIUS>4</RADIUS><Z2>21</Z2><QUADRANT>3<PartDrawID>3</PartDrawID> </QUADRANT><PartDrawSide>4</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>240.000</X><Y>9.500</Y><RADIUS>4</RADIUS><Z2>21</Z2><QUADRANT>3<PartDrawID>4</PartDrawID> </QUADRANT><PartDrawSide>4</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>280.600</X><Y>50.000</Y><RADIUS>4</RADIUS><Z2>9</Z2><QUADRANT>1<PartDrawID>5</PartDrawID> </QUADRANT><PartDrawSide>0</PartDrawSide>
+  <PartDrawQuadrant>1</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>280.600</X><Y>240.000</Y><RADIUS>4</RADIUS><Z2>9</Z2><QUADRANT>1<PartDrawID>6</PartDrawID> </QUADRANT><PartDrawSide>0</PartDrawSide>
+  <PartDrawQuadrant>1</PartDrawQuadrant></Draw></PartDraw>
+			<LPX>561.2</LPX>
+			<LPY>290</LPY>
+			<LPZ>19</LPZ>
+		</Part><Part Key="7">
+			<PartMat>Bennu BE11</PartMat>
+			<PartD>1</PartD>
+      <PartRemark>Panel Divisor</PartRemark>
+      <PartRemark2>Bajo</PartRemark2>
+			<PartL>371.1</PartL>
+			<PartW>290</PartW>
+			<PartQty>1</PartQty><PartEdge1>0</PartEdge1>
+  <PartEdge2>0</PartEdge2>
+  <PartEdge3>0</PartEdge3>
+  <PartEdge4>0</PartEdge4>
+      <PartDraw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>50.000</X><Y>9.500</Y><RADIUS>4</RADIUS><Z2>21</Z2><QUADRANT>4<PartDrawID>1</PartDrawID> </QUADRANT><PartDrawSide>2</PartDrawSide>
+  <PartDrawQuadrant>1</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>240.000</X><Y>9.500</Y><RADIUS>4</RADIUS><Z2>21</Z2><QUADRANT>4<PartDrawID>2</PartDrawID> </QUADRANT><PartDrawSide>2</PartDrawSide>
+  <PartDrawQuadrant>1</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>50.000</X><Y>9.500</Y><RADIUS>4</RADIUS><Z2>21</Z2><QUADRANT>3<PartDrawID>3</PartDrawID> </QUADRANT><PartDrawSide>4</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw><Draw><FUNCTNAME>DRILL</FUNCTNAME><X>240.000</X><Y>9.500</Y><RADIUS>4</RADIUS><Z2>21</Z2><QUADRANT>3<PartDrawID>4</PartDrawID> </QUADRANT><PartDrawSide>4</PartDrawSide>
+  <PartDrawQuadrant>2</PartDrawQuadrant></Draw></PartDraw>
+			<LPX>371.1</LPX>
+			<LPY>290</LPY>
+			<LPZ>19</LPZ>
+		</Part>
+	</PartList>
+	<VariableList>
+	</VariableList>
+	<PartFileProperties>
+		<PartFName>ardis</PartFName>
+		<PartFCX>3000</PartFCX>
+		<PartFCY>2000</PartFCY>
+		<PartFCZ>100</PartFCZ>
+	</PartFileProperties>
+</PartFile>
